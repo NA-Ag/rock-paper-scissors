@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-A javascript game of rock paper scissors to be played in the concole to refresh my memory on basic Javascript use. The project includes an HTML and Javascript files. You can visit the site [here](https://na-ag.github.io/recipes/index.html).
+A javascript game of rock paper scissors to be played in the concole to refresh my memory on basic Javascript use. The project includes an HTML and Javascript files. You can visit the site [here](https://na-ag.github.io/rock-paper-scissors/).
 
 ## Features
 
@@ -24,8 +24,8 @@ To view the game, open `index.html` in your web browser. From the index page, ri
 
 ## Screenshots
 
-![Screenshot 1](./images/screenshots/Screenshot1.png)
-![Screenshot 2](./images/screenshots/Screenshot2.png)
+![Screenshot 1](./Screenshot1.png)
+![Screenshot 2](./Screenshot2.png)
 
 ## Goals
 
